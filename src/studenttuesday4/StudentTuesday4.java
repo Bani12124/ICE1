@@ -11,7 +11,7 @@ public class StudentTuesday4{
     
     public static void main(String[] args){
         
-        Student[] students = new Student[3]; //This is making an array..
+        Student[] students = new Student[4]; //This is making an array..
         
         Scanner keyboard = new Scanner(System.in);
         
