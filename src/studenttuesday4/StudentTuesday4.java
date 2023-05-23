@@ -11,7 +11,7 @@ public class StudentTuesday4{
     
     public static void main(String[] args){
         
-        Student[] students = new Student[4]; //I changed the array size to 5 at 6:23pm
+        Student[] students = new Student[5]; //I changed the array size to 5 at 6:23pm
         
         Scanner keyboard = new Scanner(System.in);
         
