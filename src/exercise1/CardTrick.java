@@ -62,5 +62,4 @@ public class CardTrick {
             System.out.println("Sorry.....Your card is not in the magic hand.");
         }
     }
-    
 }
